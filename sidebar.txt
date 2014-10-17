@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pgu:home|Door43 (pgu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pgu|d43-pgu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pgu/archive/master.zip|d43-pgu.zip]]
+
+**Recent Changes**
+{{changes>ns = pgu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pgu|Ethnologue data]]
+
